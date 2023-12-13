@@ -77,10 +77,6 @@ body {
     text-align: center;
   }
 
-  /* table{
-    table-layout:  ;
-  } */ 
-
   li
   {
     margin-left: 200px;
@@ -106,14 +102,20 @@ body {
 			width: 30%; 
 			height: 100vh; 
 			text-align: right; 
-			color: black;
-      
+			color: black; 
     } 
 
   		.child2 { 
-			width: 70%; 
+			width: 60%; 
 			color: black; 
 			height: 100vh; 
-      text-align: left;   
-                       
+      text-align: left;                     
 		} 
+
+    .child3 { 
+			width: 10%; 
+			color: green; 
+			height: 100vh; 
+      /* background-color: green; */
+      text-align: right;
+    }
