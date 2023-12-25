@@ -18,6 +18,9 @@ Finesses
 -headers/footers
 -marquee function
 
+Technics
+HTML, Javascript, CSS
+
 Biggest problems
 - The header
 - The css-file, making everything working
